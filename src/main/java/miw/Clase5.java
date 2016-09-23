@@ -1,6 +1,6 @@
 package miw;
 
-public class Class5 {
+public class Clase5 {
     public void m(){
         System.out.println("soy 5");
     }
